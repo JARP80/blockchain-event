@@ -1,1 +1,0 @@
-${Ansi.RED} :: TWS Minner Demo ${spring-boot.formatted-version}

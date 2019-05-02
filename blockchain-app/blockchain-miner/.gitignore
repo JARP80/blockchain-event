@@ -6,6 +6,7 @@
 /tmp
 /target
 /out-tsc
+/bin
 
 # dependencies
 /node_modules
@@ -30,6 +31,7 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
 
 # misc
 /.sass-cache

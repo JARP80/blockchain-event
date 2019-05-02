@@ -6,7 +6,7 @@
 /tmp
 /target
 /out-tsc
-
+/bin
 # dependencies
 /node_modules
 
