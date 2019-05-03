@@ -1,0 +1,9 @@
+.project
+.idea
+.vscode
+./1/regtest
+./2/regtest
+./1/blocks
+./2/blocks
+*.log
+./explorer/*
